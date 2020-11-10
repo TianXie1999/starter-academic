@@ -44,7 +44,7 @@ social:
   link: mailto:xieti@umich.edu
   
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: www.linkedin.com/in/tianxie1999
 
 
