@@ -1,37 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tian Xie
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Senior Data Science Major
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Michigan, Ann Arbor
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include portfolio management, financial statistics and machine learning applications on interdisciplinary fields.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Quantitative Finance
+- Financial Statistics
+- Biostats
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Data Mining
+    institution: University of Michigan, Ann Arbor
+    year: 2020
+  - course: Applied Regression Analysis
+    institution: University of Michigan, Ann Arbor
+    year: 2020
+  - course: Biostats
+    institution: University of Michigan, Ann Arbor
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,24 +41,15 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: mailto:xieti@umich.edu
+  
+- icon: linkedin
+  icon_pack: fas
+  link: www.linkedin.com/in/tianxie1999
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "xieti@umich.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,6 +61,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a senior data science major at University of Michigan, Ann Arbor. I finished my first two years of college in School of Mathematics of Sun Yat-sen Univeristy and then transfered. My research interests are mainly on statistical learning on interdisciplinary fields including finance and biology. I have worked as research assistant for several projects on quantitative finance, portfolio management, and disease progression analysis. I really look foward to doing further researches as a graduate student.
