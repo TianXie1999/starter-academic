@@ -1,15 +1,17 @@
 +++
-# A Featured Publications section created with the Featured Content widget.
-# This section displays publications from `content/publication/` which have
-# `featured = true` in their front matter.
+widget: featured
 
-widget = "publication"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+# Activate this widget? true/false
+active: true
 
-title = "featured"
-subtitle = ""
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 80
+
+title: Publications
+subtitle: ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
