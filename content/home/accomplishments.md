@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-07-01"
   date_end = ""
-  description = "1.Examined the relationship between different factors (including delay rate, passenger fare and major events) and stock price of commercial airlines in the United States;2.Developed a time series regression model to predict stock price with testing error below 0.5"
+  description = "Examined the relationship between different factors (including delay rate, passenger fare and major events) and stock price of commercial airlines in the United States, and developed a time series regression model to predict stock price with testing error below 0.5"
 
 [[item]]
   organization = "COMAP"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-04-01"
   date_end = ""
-  description = "1.Developed Constrained Optimization Models with two teammates to determine optimal distribution of the future charging station network of Tesla;2.Used Bass Model to predict how fast Tesla will dominate the market and replace regular vehicles;"
+  description = "Developed Constrained Optimization Models with two teammates to determine optimal distribution of the future charging station network of Tesla"
   
 [[item]]
   organization = "University of Michigan, Ann Arbor"
