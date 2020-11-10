@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-04-30"
   date_end = ""
-  description = "Award students with distinctive performance in academic"
+  description = "Awarded students with distinctive performance in academic"
   
 [[item]]
   organization = "Sun Yat-sen University"
@@ -56,5 +56,5 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-09-30"
   date_end = ""
-  description = "Award students with top 5% GPA in School of Mathematics, also required students to do enough community service to be qualified"
+  description = "Awarded students with top 5% GPA in School of Mathematics, also required students to do enough community service to be qualified"
 +++
