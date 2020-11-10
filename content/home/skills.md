@@ -37,7 +37,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistical Machine Learning"
   description = "proficient"  
-  
+ 
+[[feature]]
+  icon = "analytics"
+  icon_pack = "fas"
+  name = "Data Analysis"
+  description = "proficient"  
 
 
 # Uncomment to use emoji icons.
