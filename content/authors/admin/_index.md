@@ -24,15 +24,13 @@ interests:
 
 education:
   courses:
-  - course: Data Mining
+  - course: Bachelor of Science in Data Science
     institution: University of Michigan, Ann Arbor
-    year: 2020
-  - course: Applied Regression Analysis
-    institution: University of Michigan, Ann Arbor
-    year: 2020
-  - course: Biostats
-    institution: University of Michigan, Ann Arbor
-    year: 2020
+    year: Expected May 2021
+  - course: Major in Statistics
+    institution: Sun Yat-sen University
+    year: 2017-2019
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
