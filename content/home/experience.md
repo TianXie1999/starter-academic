@@ -39,6 +39,7 @@ date_format = "Jan 2006"
   location = " San Diego, CA, the United States"
   date_start = "2020-05"
   date_end = "2020-07"
+  description = """
   Responsibilities include:
   
   * Calculated Global/Rolling Spearman Correlation of minute-level signals of different futures contracts (stock index futures, treasury futures, and commodity futures) in Python/R; evaluated quality of signals with correlation map
@@ -53,6 +54,7 @@ date_format = "Jan 2006"
   location = "Shenzhen, China"
   date_start = "2020-04"
   date_end = "2020-07"
+  description = """
   Responsibilities include:
   
   * Developed Time Series Machine Learning models to predict the progression of patients suffering from Parkinson’s Disease
@@ -67,6 +69,7 @@ date_format = "Jan 2006"
   location = "Shenzhen, China"
   date_start = "2018-10"
   date_end = "2019-08"
+  description = """
   Responsibilities include:
   
   * Research project on digital inclusive finance funded by the National Social Science Fund in China
@@ -81,6 +84,7 @@ date_format = "Jan 2006"
   location = "Shenzhen, China"
   date_start = "2019-07"
   date_end = "2019-08"
+  description = """
   Responsibilities include:
   
   * Analyzed government policies about Public-Private Partnership (PPP) projects; participated in due diligence with accountants and completed worksheets and reports during preferred stock offering process by TieHan Ecology
