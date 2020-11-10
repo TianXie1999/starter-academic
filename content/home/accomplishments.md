@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Honors and Awards"
 subtitle = ""
 
 # Date format
@@ -19,33 +19,42 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Correlation One"
+  organization_url = "https://www.correlation-one.com/"
+  title = "Final Round (Top 2%) of Datathon 2020 (The International Data Science Competition)"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2020-07-01"
   date_end = ""
-  description = ""
+  description = "1.Examined the relationship between different factors (including delay rate, passenger fare and major events) and stock price of commercial airlines in the United States;2.Developed a time series regression model to predict stock price with testing error below 0.5"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "COMAP"
+  organization_url = "https://www.comap.com/undergraduate/contests/"
+  title = "Honorable Mention"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-04-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  description = "1.Developed Constrained Optimization Models with two teammates to determine optimal distribution of the future charging station network of Tesla;2.Used Bass Model to predict how fast Tesla will dominate the market and replace regular vehicles;"
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "University of Michigan, Ann Arbor"
+  organization_url = ""
+  title = "University Honors"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-
+  certificate_url = ""
+  date_start = "2020-04-30"
+  date_end = ""
+  description = "Award students with distinctive performance in academic"
+  
+[[item]]
+  organization = "Sun Yat-sen University"
+  organization_url = ""
+  title = "First Class Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-09-30"
+  date_end = ""
+  description = "Award students with top 5% GPA in School of Mathematics, also required students to do enough community service to be qualified"
 +++
