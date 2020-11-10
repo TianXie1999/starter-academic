@@ -61,4 +61,4 @@ user_groups:
 - Visitors
 ---
 
-I am a senior data science major at University of Michigan, Ann Arbor. I finished my first two years of college in School of Mathematics of Sun Yat-sen Univeristy and then transfered. My research interests are mainly on statistical learning on interdisciplinary fields including finance and biology. I have worked as research assistant for several projects on quantitative finance, portfolio management, and disease progression analysis. I really look foward to doing further researches as a graduate student.
+I am a senior data science major at University of Michigan, Ann Arbor. I finished my first two years of college in School of Mathematics of Sun Yat-sen Univeristy and then transfered. My research interests include statistical learning applications on interdisciplinary fields such as finance and biology. I have worked as research assistant for several projects on quantitative finance, portfolio management, and disease progression analysis. I really look foward to doing further researches as a graduate student.
