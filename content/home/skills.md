@@ -39,7 +39,7 @@ subtitle = ""
   description = "proficient"  
  
 [[feature]]
-  icon = "analytics"
+  icon = "keyboard"
   icon_pack = "fas"
   name = "Data Analysis"
   description = "proficient"  
