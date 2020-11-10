@@ -56,6 +56,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+---
 title: "Managing Risks and Serving Small and Micro Enterprises: Equity Crowdfunding is Expected to Promote the “First Kilometer” of Microfinancing"
 authors:
 - Yan Zeng
