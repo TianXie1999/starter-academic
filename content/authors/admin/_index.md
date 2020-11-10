@@ -45,7 +45,7 @@ social:
   
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/tianxie1999
+  link: linkedin.com/in/tianxie1999
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
